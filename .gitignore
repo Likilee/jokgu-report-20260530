@@ -1,0 +1,7 @@
+.codex/
+.gemini/
+.mcp.json
+AGENTS.md
+CLAUDE.md
+*.png
+.DS_Store
