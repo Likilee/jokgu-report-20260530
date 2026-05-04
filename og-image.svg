@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">2026 足봄</title>
+  <desc id="desc">족구 모임 족의 봄 원정 리포트 공유 이미지</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff3d7"/>
+      <stop offset="0.48" stop-color="#fff9ec"/>
+      <stop offset="1" stop-color="#eaf7d8"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7eba78"/>
+      <stop offset="1" stop-color="#4f8e5e"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#6d5431" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="115" cy="96" r="84" fill="#ffd9e3" opacity="0.82"/>
+  <circle cx="1050" cy="95" r="116" fill="#ffe4a8" opacity="0.78"/>
+  <circle cx="1045" cy="520" r="120" fill="#cbe7a7" opacity="0.68"/>
+  <circle cx="242" cy="548" r="70" fill="#ffd9e3" opacity="0.6"/>
+
+  <g opacity="0.5">
+    <circle cx="101" cy="259" r="7" fill="#e97891"/>
+    <circle cx="145" cy="302" r="5" fill="#ffd36a"/>
+    <circle cx="1007" cy="251" r="7" fill="#e97891"/>
+    <circle cx="1104" cy="371" r="6" fill="#ffd36a"/>
+    <circle cx="785" cy="84" r="5" fill="#8fca74"/>
+    <circle cx="438" cy="108" r="6" fill="#e97891"/>
+  </g>
+
+  <g transform="translate(770 82)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="320" height="350" rx="34" fill="#fffef9" stroke="#eadfca" stroke-width="2"/>
+    <rect x="34" y="42" width="252" height="198" rx="22" fill="url(#field)"/>
+    <path d="M58 62H262V220H58Z" fill="none" stroke="#ffffff" stroke-opacity="0.72" stroke-width="4"/>
+    <path d="M160 62V220" stroke="#ffffff" stroke-opacity="0.72" stroke-width="4"/>
+    <path d="M155 57V225" stroke="#2c3026" stroke-opacity="0.26" stroke-width="10"/>
+    <path d="M160 57V225" stroke="#ffffff" stroke-opacity="0.54" stroke-width="3" stroke-dasharray="8 9"/>
+    <circle cx="104" cy="122" r="10" fill="#fff3d7"/>
+    <circle cx="218" cy="166" r="10" fill="#fff3d7"/>
+    <rect x="48" y="268" width="95" height="32" rx="16" fill="#fff0d1"/>
+    <rect x="155" y="268" width="116" height="32" rx="16" fill="#ffe0e8"/>
+    <text x="95" y="290" text-anchor="middle" font-family="Apple SD Gothic Neo, sans-serif" font-size="17" font-weight="700" fill="#3f8f54">서울 당일</text>
+    <text x="213" y="290" text-anchor="middle" font-family="Apple SD Gothic Neo, sans-serif" font-size="17" font-weight="700" fill="#e97891">외곽 1박</text>
+  </g>
+
+  <g transform="translate(840 380)">
+    <g transform="rotate(-12)">
+      <ellipse cx="0" cy="-44" rx="24" ry="44" fill="#ffb8c8"/>
+      <ellipse cx="0" cy="44" rx="24" ry="44" fill="#ffb8c8"/>
+      <ellipse cx="-42" cy="0" rx="44" ry="24" fill="#ffc8d5"/>
+      <ellipse cx="42" cy="0" rx="44" ry="24" fill="#ffc8d5"/>
+      <ellipse cx="-30" cy="-31" rx="22" ry="39" fill="#ffd8e1" transform="rotate(-45 -30 -31)"/>
+      <circle cx="0" cy="0" r="18" fill="#ffd36a"/>
+    </g>
+  </g>
+  <g transform="translate(1015 435) scale(0.62)">
+    <ellipse cx="0" cy="-44" rx="24" ry="44" fill="#ffb8c8"/>
+    <ellipse cx="0" cy="44" rx="24" ry="44" fill="#ffb8c8"/>
+    <ellipse cx="-42" cy="0" rx="44" ry="24" fill="#ffc8d5"/>
+    <ellipse cx="42" cy="0" rx="44" ry="24" fill="#ffc8d5"/>
+    <circle cx="0" cy="0" r="18" fill="#ffd36a"/>
+  </g>
+
+  <g transform="translate(82 78)">
+    <text x="0" y="0" font-family="Apple SD Gothic Neo, sans-serif" font-size="28" font-weight="800" fill="#e97891">2026.05.30 SAT</text>
+    <text x="0" y="142" font-family="Apple SD Gothic Neo, sans-serif" font-size="126" font-weight="900" fill="#ffe7a8">2026 足봄</text>
+    <text x="0" y="132" font-family="Apple SD Gothic Neo, sans-serif" font-size="126" font-weight="900" fill="#e97891">2026 足봄</text>
+    <text x="4" y="204" font-family="Apple SD Gothic Neo, sans-serif" font-size="38" font-weight="800" fill="#2c3026">족구 모임 ‘족’의 봄 원정 리포트</text>
+    <text x="4" y="258" font-family="Apple SD Gothic Neo, sans-serif" font-size="28" font-weight="700" fill="#70775f">서울 당일 · 서울 1박 · 천안/용인/안성 외곽 1박 비교</text>
+  </g>
+
+  <g transform="translate(82 410)" font-family="Apple SD Gothic Neo, sans-serif" font-size="25" font-weight="800">
+    <rect x="0" y="0" width="212" height="62" rx="31" fill="#fffef9" stroke="#eadfca" stroke-width="2"/>
+    <text x="106" y="40" text-anchor="middle" fill="#3f8f54">4곳 족구장</text>
+    <rect x="232" y="0" width="230" height="62" rx="31" fill="#fffef9" stroke="#eadfca" stroke-width="2"/>
+    <text x="347" y="40" text-anchor="middle" fill="#b06d13">5곳 1박 후보</text>
+    <rect x="482" y="0" width="250" height="62" rx="31" fill="#fffef9" stroke="#eadfca" stroke-width="2"/>
+    <text x="607" y="40" text-anchor="middle" fill="#e97891">7-10명 기준</text>
+  </g>
+
+  <text x="86" y="556" font-family="Apple SD Gothic Neo, sans-serif" font-size="24" font-weight="700" fill="#70775f">likilee.github.io/jokgu-report-20260530</text>
+</svg>
