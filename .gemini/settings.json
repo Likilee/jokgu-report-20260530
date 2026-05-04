@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "openbnb": {
+      "httpUrl": "https://mcp.openbnb.ai/mcp"
+    }
+  }
+}
